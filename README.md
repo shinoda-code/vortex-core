@@ -2,6 +2,7 @@
 
 ### L0のマッピング
 ![image](https://user-images.githubusercontent.com/75910037/144088302-52089221-7730-47e6-a9b5-b8aef8c4f60b.png)
+->QWERTY配列。現在のメインレイヤー。シェイクダウンを繰り返し、かなりい感じに煮詰まってきている。
 
 ### L2（緑）のマッピング
 ![image](https://user-images.githubusercontent.com/75910037/144088579-2008c57c-94c2-40bf-b26e-08aa10feb9e3.png)
