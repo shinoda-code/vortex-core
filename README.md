@@ -1,4 +1,4 @@
-## VortexCore Files
+## VortexCore Settings（2021/12/01更新）
 
 ### L0のマッピング
 ![image](https://user-images.githubusercontent.com/75910037/144088302-52089221-7730-47e6-a9b5-b8aef8c4f60b.png)
