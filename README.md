@@ -11,3 +11,8 @@
 ### L3（青）のマッピング
 ![image](https://user-images.githubusercontent.com/75910037/144088641-84498ed2-4807-4ff6-bc0e-17656205dafe.png)
 -> Dvorak配列のレイヤー。とりあえず基本的な部分だけマッピングしたけど、本当に使うかどうかは不明。
+
+
+## VortexCore Settings（2021/12/13更新）
+
+### L0のマッピングを変更
