@@ -15,7 +15,7 @@
 
 ## VortexCore Settings（2021/12/13更新）
 
-### L0のマッピングを変更
+### L0のマッピングを変
 
 ![image](https://user-images.githubusercontent.com/75910037/145843541-53a30c54-114e-4365-90c5-4b11b00a5a4c.png)
  
